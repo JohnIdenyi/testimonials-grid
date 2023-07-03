@@ -30,7 +30,7 @@ body {
   color: var(--clr-light-gray);;
   background-color: var(--clr-light-grayish-blue);
   line-height: 1.5;
-  padding: 1.5rem;
+  padding: 4.5rem 1.5rem;
 }
 
 img {
